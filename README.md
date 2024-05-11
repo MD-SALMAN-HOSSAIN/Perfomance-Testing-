@@ -1,5 +1,5 @@
 # Perfomance Testing and Analyzing the Test reports
-### Approaches 
+### Approaches & Tools ⚙ 
 ```bash
 Add Api for different types manually & (With Brazemeter)
 Api Chaining With different Api
