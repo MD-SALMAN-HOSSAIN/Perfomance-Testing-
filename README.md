@@ -28,12 +28,12 @@ You can also study
 Dear Sir/ma'am, 
 I've completed performance test on frequently used API for Test App. 
 Test executed for the below mentioned senario in server xxx.xxx.xxx.xxx
-Auth	150 with 3 loop count; avg for toal sample is ~ 150 Total Api requested ~ 900 .
-CreateBooking	150 3 loop count; avg for toal sample is ~ 150 Total Api requested ~ 900 .
-Delete	150 3 loop count; avg for toal sample is ~ 150 Total Api requested ~ 900 .
-GetBooking	150 3 loop count; avg for toal sample is ~ 150 Total Api requested ~ 900 .
-PartialUpdate	150 3 loop count; avg for toal sample is ~ 150 Total Api requested ~ 900 .
-UpdateBooking	150 3 loop count; avg for toal sample is ~ 150 Total Api requested ~ 900 .
+Auth	         150 with 3 loop count; avg for toal sample is ~ 150 Total Api requested ~ 900 .
+CreateBooking	150 with 3 loop count; avg for toal sample is ~ 150 Total Api requested ~ 900 .
+Delete	      150 with 3 loop count; avg for toal sample is ~ 150 Total Api requested ~ 900 .
+GetBooking	   150 with 3 loop count; avg for toal sample is ~ 150 Total Api requested ~ 900 .
+PartialUpdate	150 with 3 loop count; avg for toal sample is ~ 150 Total Api requested ~ 900 .
+UpdateBooking	150 with 3 loop count; avg for toal sample is ~ 150 Total Api requested ~ 900 .
 
 While executed 900 request .fund 50 request got connection timeout and error rate is 5.89% 
 
